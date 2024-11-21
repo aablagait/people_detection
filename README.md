@@ -18,4 +18,6 @@ P.s. при работе используется библиотека PyTorch, 
 
 ### Пример работы:
 
-
+![img.png](screenshots/img.png)
+вывод в терминале
+![img2.png](screenshots/img2.png)
