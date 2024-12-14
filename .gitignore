@@ -1,7 +1,13 @@
 frontend/node_modules
 infra/frontend/build
 .env
-
+*.png
+*.jpg
+*.zip
+*.jpeg
+*.mp4
+*.mov
+screenshots/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
